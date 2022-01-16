@@ -1,8 +1,8 @@
 
 YwHello Project
 ===============
-This is an example project that is used to demonstrate how to publish
-Python packages on PyPI.
+This is an example project that is used to 
+demonstrate how to publishPython packages on PyPI.
 
 Installing
 ============
